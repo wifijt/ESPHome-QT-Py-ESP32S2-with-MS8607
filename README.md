@@ -7,3 +7,5 @@ The MS8607 is also from Adafruit https://www.adafruit.com/product/4716
 
 This config allows you to control the onboard neopixel via home assistant - on this board GPIO pin 38 needs to be driven high to enable the NeoPixel. By default it is low.
 
+![Alt HAcard](https://github.com/wifijt/ESPHome-QT-Py-ESP32S2-with-MS8607/blob/main/Screen%20Shot%202022-09-30%20at%209.53.23%20AM.png)
+![Alt HAcard](https://github.com/wifijt/ESPHome-QT-Py-ESP32S2-with-MS8607/blob/main/IMG_1146.jpg)
